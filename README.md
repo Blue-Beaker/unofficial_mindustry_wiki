@@ -1,4 +1,4 @@
-# unofficial_mindustry_wiki
+# Unofficial Mindustry Wiki
 A Unofficial Mindustry wiki with missing details from the official one
 
 #Mindustry Official Website
