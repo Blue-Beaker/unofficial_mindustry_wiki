@@ -1,4 +1,4 @@
-<<[电力](..power.md)
+<<[电力](../power.md)
 # 二极管
 ![二极管](https://mindustrygame.github.io/wiki/images/block-diode-xlarge.png)  
 将电池的电能沿所指方向传输.只有当输入端电池储能百分比大于输出端时才会传输.
