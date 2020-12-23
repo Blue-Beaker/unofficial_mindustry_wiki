@@ -1,8 +1,33 @@
-# Unofficial Mindustry Wiki
-A Unofficial Mindustry wiki with missing details from the official one
+# Welcome to the Unofficial Mindustry wiki!
 
-Mindustry Official Website
-https://mindustrygame.github.io/
+This wiki aims for missing details from the official one.
 
-Mindustry Official Wiki
-https://mindustrygame.github.io/wiki
+## Contents
+
+* ### Blocks
+Blocks are placable  
+> Turrets  
+> Drills  
+> Conveyors  
+> Pipes  
+> Power  
+> ![alt ](https://github.com/Anuken/Mindustry/blob/master/core/assets-raw/icons/defense.png?raw=true)Defense  
+> Factories  
+> Units  
+> Misc  
+> Logic
+
+* ### Items
+* ### Liquids
+* ### Units
+* ### TechTree
+* ### Sections
+    - Named sections
+    - Numbered sections
+
+
+
+## External Links
+
+[Mindustry Official Website](https://mindustrygame.github.io/)  
+[Mindustry Official Wiki](https://mindustrygame.github.io/wiki/)
