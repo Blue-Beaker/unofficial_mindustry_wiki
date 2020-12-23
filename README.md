@@ -11,7 +11,7 @@ Blocks are placable
 > Conveyors  
 > Pipes  
 > Power  
-> ![alt ](https://github.com/Anuken/Mindustry/blob/master/core/assets-raw/icons/defense.png?raw=true)Defense  
+> Defense  
 > Factories  
 > Units  
 > Misc  
