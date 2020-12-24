@@ -1,4 +1,4 @@
->[Wiki](../zhcn.md)>方块
+\>[Wiki](../zhcn.md)>方块
 # 方块
 
 ## ![turret](../assets/icons50/turret.png) [炮塔](zhcn/blocks/turrets.md)  
