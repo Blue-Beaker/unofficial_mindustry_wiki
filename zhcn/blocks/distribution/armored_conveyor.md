@@ -1,7 +1,7 @@
 \>[Wiki](../../../zhcn.md)>[方块](../../blocks.md)>[运输](../distribution.md)>装甲传送带
 # 装甲传送带
 ![装甲传送带](../../../images/block-armored-conveyor-xlarge.png)  
-向前方移动物品.不接受边上的输入.
+> 向前方移动物品.不接受边上的输入.
 
 速度与[钛传送带](titanium_conveyor.md)相同.  
 两侧只接受[传送带](conveyor.md),[钛传送带](titanium_conveyor.md)和装甲传送带的输入,后方可接受任何输入.  

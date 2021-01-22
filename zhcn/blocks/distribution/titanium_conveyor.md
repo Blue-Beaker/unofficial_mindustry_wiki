@@ -1,7 +1,7 @@
 \>[Wiki](../../../zhcn.md)>[方块](../../blocks.md)>[运输](../distribution.md)>钛传送带
 # 钛传送带
 ![钛传送带](../../../images/block-titanium-conveyor-xlarge.png)  
-将物品向前输送.快于初级传送带.
+> 将物品向前输送.快于初级传送带.
 
 速度与[装甲传送带](armored_conveyor.md)相同.  
 
