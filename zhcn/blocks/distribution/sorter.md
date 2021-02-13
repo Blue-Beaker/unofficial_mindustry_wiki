@@ -23,7 +23,7 @@
 |物品容量|无|
 |移动速度|无限|
 |最大连续|2|  
-| 材料消耗 | ![铜](/images/item-copper.png)x2 ![铅](/images/item-lead.png)x2 |
+| 建造花费 | ![铜](/images/item-copper.png)x2 ![铅](/images/item-lead.png)x2 |
 |阻挡地面单位|是|
 |发光|否|
 |可超速|无意义|

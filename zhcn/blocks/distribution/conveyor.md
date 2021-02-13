@@ -31,7 +31,7 @@
 |生命值|45|  
 |建造时间|0.01秒|
 |移动速度|4.1 物品/秒|
-| 材料消耗 | ![铜](/images/item-copper.png)x1 |
+| 建造花费 | ![铜](/images/item-copper.png)x1 |
 
 
 ## [钛传送带](titanium_conveyor.md)
@@ -48,7 +48,7 @@
 |生命值|65|  
 |建造时间|0.03秒|
 |移动速度|11 物品/秒|
-| 材料消耗 | ![铜](/images/item-copper.png)x1 ![铅](/images/item-lead.png)x1 ![钛](/images/item-titanium.png)x1 |
+| 建造花费 | ![铜](/images/item-copper.png)x1 ![铅](/images/item-lead.png)x1 ![钛](/images/item-titanium.png)x1 |
 
 ## [装甲传送带](armored_conveyor.md)
 ![装甲传送带](/images/block-armored-conveyor-xlarge.png)  
@@ -66,4 +66,4 @@
 |生命值|180|  
 |建造时间|0.06秒|
 |移动速度|11 物品/秒|
-| 材料消耗 | ![钢化玻璃](/images/item-metaglass.png)x1 ![钍](/images/item-thorium.png)x1 ![塑钢](/images/item-plastanium.png)x1 |
+| 建造花费 | ![钢化玻璃](/images/item-metaglass.png)x1 ![钍](/images/item-thorium.png)x1 ![塑钢](/images/item-plastanium.png)x1 |
